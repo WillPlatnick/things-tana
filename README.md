@@ -22,7 +22,9 @@ git clone https://github.com/WillPlatnick/things-tana.git
 ## Tana Setup
 
 I configure a #things3 tag with the following fields:
+
 uuid - Anything
+
 Project - Anything
 
 ## Alfred Setup
