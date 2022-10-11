@@ -12,6 +12,7 @@ This is mostly just a POC. Please feel free to fork and implement your own logic
 ## Installation
 
 ```
+brew install jq
 pip3 install things-cli
 mkdir -p ~/workspace
 cd ~/workspace
